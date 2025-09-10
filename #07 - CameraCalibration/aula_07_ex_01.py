@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import glob
-
+ 
 # Board Size
 board_h = 9  # altura do padrão
 board_w = 6  # largura do padrão
