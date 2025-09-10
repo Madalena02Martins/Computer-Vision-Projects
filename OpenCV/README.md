@@ -17,7 +17,7 @@ Welcome to Computer Vision Course repository! Here you will find the sources and
 * Course organization, class notes and tutorials  
 Prof Paulo Dias  
 * Using some materials from\
-Prof<sup>a</sup>. Beatriz Sousa Santos 
-Prof. António Neves 
-Prof. Joaquim Madeira
+Prof<sup>a</sup>. Beatriz Sousa Santos\
+Prof. António Neves\
+Prof. Joaquim Madeira\
 
