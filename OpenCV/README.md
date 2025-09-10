@@ -19,5 +19,5 @@ Prof Paulo Dias
 * Using some materials from\
 Prof<sup>a</sup>. Beatriz Sousa Santos\
 Prof. António Neves\
-Prof. Joaquim Madeira\
+Prof. Joaquim Madeira
 
