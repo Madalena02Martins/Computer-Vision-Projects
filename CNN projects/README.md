@@ -4,7 +4,7 @@ This section brings together computer vision projects that use Convolutional Neu
 
 ### 🚀 Projects
 
-* Banknote Detection 
+* Banknotes Detection 
 * Plastic Water Bottles Detection
 * Strawberries Detection
 

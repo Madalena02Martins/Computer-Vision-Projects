@@ -1,4 +1,4 @@
-## 💵 Banknote Detection with YOLO and GUI
+## 💵 Banknotes Detection with YOLO and GUI
 
 This project implements a system for automatic banknote detection using YOLO (You Only Look Once) and convolutional neural networks, with a graphical interface built in Tkinter.
 It allows dataset preparation, model training, results visualization, and performing image and real-time video classification.
@@ -22,9 +22,9 @@ It allows dataset preparation, model training, results visualization, and perfor
     * Original image/video
     * Classified image/video with detections
 
-### 💶 Banknote Classes Considered
+### 💶 Banknotes Classes Considered
 
-The system was trained to recognize the following banknote classes:
+The system was trained to recognize the following banknotes classes:
 
 * €5 banknote  
 * €10 banknote  
