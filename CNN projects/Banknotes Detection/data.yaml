@@ -1,0 +1,11 @@
+train: ./dados/train
+val: ./dados/val
+names:
+  0: Nota de 100€
+  1: Nota de 10€
+  2: Nota de 200€
+  3: Nota de 20€
+  4: Nota de 500€
+  5: Nota de 50€
+  6: Nota de 5€
+  7: Nota desconhecida

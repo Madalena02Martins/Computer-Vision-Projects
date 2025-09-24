@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Nota de 100\u20ac"
+    },
+    {
+      "id": 1,
+      "name": "Nota de 10\u20ac"
+    },
+    {
+      "id": 2,
+      "name": "Nota de 200\u20ac"
+    },
+    {
+      "id": 3,
+      "name": "Nota de 20\u20ac"
+    },
+    {
+      "id": 4,
+      "name": "Nota de 500\u20ac"
+    },
+    {
+      "id": 5,
+      "name": "Nota de 50\u20ac"
+    },
+    {
+      "id": 6,
+      "name": "Nota de 5\u20ac"
+    },
+    {
+      "id": 7,
+      "name": "Nota desconhecida"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
