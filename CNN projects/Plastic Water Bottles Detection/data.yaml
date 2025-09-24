@@ -1,0 +1,13 @@
+train: ./train/train/images
+val: ./train/val/images
+test: ./train/test/images
+
+nc: 1
+names: ['Plastic-bottle']
+
+roboflow:
+  workspace: teste-k5i2l
+  project: plastic-bottle-model8
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/teste-k5i2l/plastic-bottle-model8/dataset/1
